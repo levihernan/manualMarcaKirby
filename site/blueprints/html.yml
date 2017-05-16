@@ -1,0 +1,14 @@
+title: HTML
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  id:
+    label: ID
+    type:  text
+
+  text:
+    label: HTML
+    type:  textarea

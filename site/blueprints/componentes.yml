@@ -1,14 +1,7 @@
-title: Projects
+title: Componentes HTML
 
+pages: html
 files: false
-
-pages:
-  template: project
-
-options: 
-  template: false  
-  status: false  
-  url: false  
 
 fields:
   title:
