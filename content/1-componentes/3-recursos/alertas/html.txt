@@ -1,0 +1,41 @@
+Title: Alertas
+
+----
+
+Description: 
+
+<ul>
+        <li>Amarillo <small class="text-muted">(.alert-warning)</small></li>
+        <li>Azul <small class="text-muted">(.alert-info)</small></li>
+        <li>Verde <small class="text-muted">(.alert-success)</small></li>
+        <li>Rojo <small class="text-muted">(.alert-danger)</small></li>
+      </ul>
+
+----
+
+Text: 
+
+<!-- Alerta con ícono -->
+
+<div class="alert alert-warning">
+<div class="media">
+<div class="media-left">
+<i class="fa fa-arrow-circle-o-right fa-fw fa-4x"></i>
+</div>
+<div class="media-body">
+<h5>¿Ya iniciaste tu tramite?</h5>
+<p class="margin-0">Seguí el <a href="http://www.mininterior.gov.ar/tramitesyservicios/estado-tramite-dni.php" target="_blank">estado del trámite en linea</a></p>
+</div>
+</div>
+</div>
+
+<!-- Alerta sin ícono -->
+
+<div class="alert alert-warning">
+<h5>¿Ya iniciaste tu tramite?</h5>
+<p class="margin-0">Seguí el <a href="http://www.mininterior.gov.ar/tramitesyservicios/estado-tramite-dni.php" target="_blank">estado del trámite en linea</a></p>
+</div>
+
+----
+
+Id: 

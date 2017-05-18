@@ -1,0 +1,15 @@
+Title: Atajo botón
+
+----
+
+Description: 
+
+----
+
+Text: 
+
+<div class="row">
+<div class="col-xs-12 text-center">
+<a class="btn btn-primary btn-lg" >Ver todas las noticias</a>
+</div>
+</div>

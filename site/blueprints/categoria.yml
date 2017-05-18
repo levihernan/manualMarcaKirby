@@ -1,4 +1,4 @@
-title: Componentes HTML
+title: Categoria
 
 pages: html
 files: false
@@ -8,6 +8,7 @@ fields:
     label: Title
     type:  text
 
-  text:
-    label: Text
+  description:
+    label: Descripción
     type:  textarea
+    placeholder: <p></p>

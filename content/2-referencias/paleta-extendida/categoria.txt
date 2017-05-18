@@ -1,0 +1,115 @@
+Title: Paleta extendida
+
+----
+
+Id: 
+
+----
+
+Description: 
+
+<p>La paleta extendida se forma de:</p>
+<div class="docs-colores">
+  <div class="row">
+    <div class="col-md-3 col-sm-6 text-center">
+      <div class="col-md-12">
+        <span class="bg-fucsia">.bg-fucsia #ea1d76</span>
+      </div>
+      <div class="col-md-12">
+        <strong class="text-fucsia">Fucsia - #ea1d76</strong>
+      </div>
+      <div class="col-md-12">
+        <small class="text-muted">(.text-fucsia)</small>
+      </div>
+    </div>
+
+    <div class="col-md-3 col-sm-6 text-center">
+      <div class="col-md-12">
+        <span class="bg-arandano">.bg-arandano #bd1e61</span>
+      </div>
+      <div class="col-md-12">
+        <strong class="text-arandano">Arándano - #bd1e61</strong>
+      </div>
+      <div class="col-md-12">
+        <small class="text-muted">(.text-arandano)</small>
+      </div>
+    </div>
+
+    <div class="col-md-3 col-sm-6 text-center">
+      <div class="col-md-12">
+        <span class="bg-uva">.bg-uva #873299</span>
+      </div>
+      <div class="col-md-12">
+        <strong class="text-uva">Uva - #873299</strong>
+      </div>
+      <div class="col-md-12">
+        <small class="text-muted">(.text-uva)</small>
+      </div>
+    </div>
+
+    <div class="col-md-3 col-sm-6 text-center">
+      <div class="col-md-12">
+        <span class="bg-cielo">.bg-cielo #009dda</span>
+      </div>
+      <div class="col-md-12">
+        <strong class="text-cielo">Cielo - #009dda</strong>
+      </div>
+      <div class="col-md-12">
+        <small class="text-muted">(.text-cielo)</small>
+      </div>
+    </div>
+
+    <div class="col-md-3 col-sm-6 text-center">
+      <div class="col-md-12">
+        <span class="bg-verdin">.bg-verdin #82bc00</span>
+      </div>
+      <div class="col-md-12">
+        <strong class="text-verdin">Verdin - #82bc00</strong>
+      </div>
+      <div class="col-md-12">
+        <small class="text-muted">(.text-verdin)</small>
+      </div>
+    </div>
+
+    <div class="col-md-3 col-sm-6 text-center">
+      <div class="col-md-12">
+        <span class="bg-lima">.bg-lima #cfde00</span>
+      </div>
+      <div class="col-md-12">
+        <strong class="text-lima">Lima - #cfde00</strong>
+      </div>
+      <div class="col-md-12">
+        <small class="text-muted">(.text-lima)</small>
+      </div>
+    </div>
+
+    <div class="col-md-3 col-sm-6 text-center">
+      <div class="col-md-12">
+        <span class="bg-maiz">.bg-maiz #ffce00</span>
+      </div>
+      <div class="col-md-12">
+        <strong class="text-maiz">Maiz - #ffce00</strong>
+      </div>
+      <div class="col-md-12">
+        <small class="text-muted">(.text-maiz)</small>
+      </div>
+    </div>
+
+    <div class="col-md-3 col-sm-6 text-center">
+      <div class="col-md-12">
+        <span class="bg-tomate">.bg-tomate #ff4338</span>
+      </div>
+      <div class="col-md-12">
+        <strong class="text-tomate">Tomate - #ff4338</strong>
+      </div>
+      <div class="col-md-12">
+        <small class="text-muted">(.text-tomate)</small>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+----
+
+Text: 

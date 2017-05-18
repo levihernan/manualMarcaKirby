@@ -1,0 +1,13 @@
+Title: Atajos
+
+----
+
+Id: 
+
+----
+
+Description: Los atajos se utilizan para enlazar cualquier tipo de contenido, tanto interno como externo, y con diferentes tipos de jerarquías.
+
+----
+
+Text: 

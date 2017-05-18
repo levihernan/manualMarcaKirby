@@ -1,0 +1,19 @@
+Title: Énfasis
+
+----
+
+Id: 
+
+----
+
+Text: 
+
+<p>Esta línea de texto es tratada como impresión fina</p>
+
+<p>El siguiente fragmento de texto es <strong>mostrado como texto en negrita</strong></p>
+
+<p>El siguiente fragmento de texto es <i>mostrado como texto en cursiva</i></p>
+
+----
+
+Description: 

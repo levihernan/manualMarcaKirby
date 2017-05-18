@@ -1,0 +1,31 @@
+Title: Números destacados
+
+----
+
+Id: 
+
+----
+
+Description: Los números destacados se utilizan en landings, páginas o noticias que necesitan comunicar un resultado o medición.
+
+----
+
+Text: 
+
+<div class="row numbers">
+<div class="col-md-4">
+<div class="h2 text-success">392.493</div>
+<p class="">Visitas últimos 30 días</p>
+<p class="text-muted">+11,06% vs mes anterior</p>
+</div>
+<div class="col-md-4">
+<div class="h2 text-gray">33 <small>%</small></div>
+<p class="">Visitas este mes</p>
+<p class="text-muted">del 1 al 26 de Febrero</p>
+</div>
+<div class="col-md-4">
+<div class="h2">5 <small>de 10</small></div>
+<p class="">Personas conectadas</p>
+<p class="text-muted">Duramente los últimos 30 días.</p>
+</div>
+</div>

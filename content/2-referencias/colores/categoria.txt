@@ -1,0 +1,84 @@
+Title: Colores
+
+----
+
+Id: 
+
+----
+
+Description: 
+
+<p class="">Los atajos se utilizan para enlazar cualquier tipo de contenido, tanto interno como externo, y con diferentes tipos de jerarquías.</p>
+
+
+
+<h4 class="header">Paleta principal</h4>
+<p>La paleta principal se forma de:</p>
+<div class="docs-colores">
+  <div class="row">
+    <div class="col-md-4 col-sm-6 text-center">
+      <div class="col-md-12">
+        <span class="bg-primary">.bg-primary #0695d6</span>
+      </div>
+      <div class="col-md-12">
+        <strong class="text-primary">Azul - #0695d6</strong>
+      </div>
+      <div class="col-md-12">
+        <small class="text-muted">(.text-primary)</small>
+      </div>
+    </div>
+
+    <div class="col-md-4 col-sm-6 text-center">
+      <div class="col-md-12">
+        <span class="bg-success">.bg-success #33b560</span>
+      </div>
+      <div class="col-md-12">
+        <strong class="text-success">Verde - #33b560</strong>
+      </div>
+      <div class="col-md-12">
+        <small class="text-muted">(.text-success)</small>
+      </div>
+    </div>
+
+    <div class="col-md-4 col-sm-6 text-center">
+      <div class="col-md-12">
+        <span class="bg-info">.bg-info #01bdf2</span>
+      </div>
+      <div class="col-md-12">
+        <strong class="text-secondary">Celeste - #01bdf2</strong>
+      </div>
+      <div class="col-md-12">
+        <small class="text-muted">(.text-secondary)</small>
+      </div>
+    </div>
+
+    <div class="col-md-4 col-md-offset-2 col-sm-6 col-sm-offset-0 text-center">
+      <div class="col-md-12">
+        <span class="bg-danger">.bg-danger #ef4d3d</span>
+      </div>
+      <div class="col-md-12">
+        <strong class="text-danger">Rojo - #ef4d3d</strong>
+      </div>
+      <div class="col-md-12">
+        <small class="text-muted">(.text-danger)</small>
+      </div>
+    </div>
+
+    <div class="col-md-4 col-sm-6 text-center">
+      <div class="col-md-12">
+        <span class="bg-warning">.bg-warning #fec221</span>
+      </div>
+      <div class="col-md-12">
+        <strong class="text-warning">Amarillo - #fec221</strong>
+      </div>
+      <div class="col-md-12">
+        <small class="text-muted">(.text-warning)</small>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+----
+
+Text: 

@@ -1,0 +1,26 @@
+Title: Atajo simple
+
+----
+
+Description: 
+
+----
+
+Text: 
+
+<div class="row panels-row">
+        <div class="col-xs-12 col-sm-6">
+          <a class="panel panel-default">
+            <div class="panel-body">
+              <h3>Ministerio de Economía</h3>
+            </div>
+          </a>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+          <a class="panel panel-default">
+            <div class="panel-body">
+              <h3>Ministerio de Economía</h3>
+            </div>
+          </a>
+        </div>
+      </div>

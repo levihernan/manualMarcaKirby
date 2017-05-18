@@ -1,0 +1,29 @@
+Title: Atajo destacado con imágen
+
+----
+
+Description: 
+
+----
+
+Text: 
+
+<div class="row panels-row">
+        <div class="col-xs-12 col-sm-6">
+          <a class="panel panel-default">
+            <div style="background-image:url('img/placeholder.png');" class="panel-heading"></div>
+            <div class="panel-body">
+              <h3>Este es el título del link</h3>
+              <p class="text-muted">quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
+            </div>
+          </a>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+          <a class="panel panel-default">
+            <div style="background-image:url('img/placeholder.png');" class="panel-heading"></div>
+            <div class="panel-body">
+              <h3>Este es el título del link</h3>
+            </div>
+          </a>
+        </div>
+      </div>

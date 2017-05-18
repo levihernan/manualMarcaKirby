@@ -1,0 +1,34 @@
+Title: Noticias
+
+----
+
+Id: 
+
+----
+
+Description: 
+
+----
+
+Text: 
+
+<div class="row panels-row">
+        <div class="col-xs-12 col-sm-6">
+          <a class="panel panel-default">
+            <div style="background-image:url('img/placeholder.png');" class="panel-heading"></div>
+            <div class="panel-body">
+              <time>Jueves 14 de Enero del 2016</time>
+              <h4>El Ministro Buryaile asistió a la apertura de la Semana Verde Internacional, en Berlín</h4>
+            </div>
+          </a>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+          <a class="panel panel-default">
+            <div style="background-image:url('img/placeholder.png');" class="panel-heading"></div>
+            <div class="panel-body">
+              <time>Jueves 14 de Enero del 2016</time>
+              <h4>El Ministro Buryaile asistió a la apertura de la Semana Verde Internacional, en Berlín</h4>
+            </div>
+          </a>
+        </div>
+      </div>

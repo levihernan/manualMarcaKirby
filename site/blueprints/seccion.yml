@@ -1,6 +1,6 @@
-title: HTML
+title: Sección
 
-pages: false
+pages: categoria
 files: false
 
 fields:
@@ -12,7 +12,3 @@ fields:
     label: Descripción
     type:  textarea
     placeholder: <p></p>
-
-  text:
-    label: HTML
-    type:  textarea

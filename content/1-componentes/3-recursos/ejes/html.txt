@@ -1,0 +1,33 @@
+Title: Ejes
+
+----
+
+Description: 
+
+----
+
+Text: 
+
+<div class="row">
+<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="icon-item">
+    <i class="fa fa-users text-success"></i>
+    <h3>Cercana</h3>
+    <p>Conoce tus necesidades y adopta sus servicios a ellas.</p>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="icon-item">
+    <i class="fa fa-search text-primary"></i>
+    <h3>Transparente</h3>
+    <p>Brinda mayor información y certeza sobre sus actos de gobierno.</p>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="icon-item">
+    <i class="fa fa-users"></i>
+    <h3>Participativa</h3>
+    <p>Trabaja en equipo con los empleados públicos y la gente.</p>
+</div>
+</div>
+</div>

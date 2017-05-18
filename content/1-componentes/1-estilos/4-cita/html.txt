@@ -1,0 +1,14 @@
+Title: Cita
+
+----
+
+Id: 
+
+----
+
+Text: 
+
+<blockquote>
+     <p> “Todas las áreas del Gobierno tendrán un plan de comunicación e información que será publicado y actualizado en forma permanente”</p>
+      — <cite>Andrés Ibarra</cite>
+</blockquote>

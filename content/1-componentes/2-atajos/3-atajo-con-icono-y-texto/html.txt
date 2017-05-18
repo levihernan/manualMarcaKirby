@@ -1,0 +1,42 @@
+Title: Atajo con ícono y texto
+
+----
+
+Description: 
+
+----
+
+Text: 
+
+<div class="row panels-row">
+        <div class="col-xs-12 col-sm-6">
+          <a class="panel panel-default">
+            <div class="panel-body">
+              <div class="media">
+                <div class="media-left padding-20">
+                  <i class="fa fa-phone fa-fw fa-3x text-secondary"></i>
+                </div>
+                <div class="media-body">
+                  <h3>El estado del estado</h3>
+                  <p class="text-muted">Diagnóstico de la Administración Pública Nacional en diciembre de 2015</p>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+          <a class="panel panel-default">
+            <div class="panel-body">
+              <div class="media">
+                <div class="media-left padding-20">
+                  <i class="fa fa-phone fa-fw fa-3x text-success"></i>
+                </div>
+                <div class="media-body">
+                  <h3>El estado del estado</h3>
+                  <p class="text-muted">Diagnóstico de la Administración Pública Nacional en diciembre de 2015</p>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
