@@ -8,6 +8,14 @@
  */
 /* Resources */
 
+.seccion{
+  padding-bottom: 50px;
+}
+
+.collapsible a{
+  text-decoration: none !important;
+}
+
 .container-sidenav{
   padding-left: 300px !important;
 }

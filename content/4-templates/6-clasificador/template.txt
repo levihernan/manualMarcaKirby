@@ -1,0 +1,5 @@
+Title: Clasificador
+
+----
+
+Description: <p>Ofrece una estructura para <strong>presentar múltiples categorías y subcategorías en simultáneo.</strong> Es útil como menú de navegación y funciona como un derivador a otras páginas ya creadas dentro o fuera del sitio web del Ministerio.</p>

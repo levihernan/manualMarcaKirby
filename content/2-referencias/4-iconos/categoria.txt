@@ -21,7 +21,7 @@ Description:
       </div> -->
       <div class="text-center">
         <!-- <p class="text-muted">Hacé clic en el ícono para copiar el nombre al portapapeles</p> -->
-        <a href="downloads/FontAwesome.zip"><button type="button" class="btn btn-success btn-block">Descargar todos los íconos</button></a>
+        <a href="zip/FontAwesome.zip"><button type="button" class="btn btn-success btn-block">Descargar todos los íconos</button></a>
       </div>
     </div>
   </div>
@@ -236,7 +236,7 @@ Description:
     <br>
     <p class="name m-b-0">genetica-exp-imp</p>
   </div><div class="col-xs-6 col-sm-4 col-md-3 text-center margin-40">
-    <i id="icono-arg-hogar-y-familia" class="icono-arg-hogar-y-familia icono-4x text-gray" data-clipboard-text="icono-arg-hogar-y-familia"></i>
+    <i id="icono-arg-ho-y-familia" class="icono-arg-hogar-y-familia icono-4x text-gray" data-clipboard-text="icono-arg-hogar-y-familia"></i>
     <br>
     <p class="name m-b-0">hogar-y-familia</p>
   </div><div class="col-xs-6 col-sm-4 col-md-3 text-center margin-40">

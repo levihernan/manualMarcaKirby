@@ -1,0 +1,31 @@
+Title: Categorización de los Elementos
+
+----
+
+Id: 
+
+----
+
+Description: 
+
+<p>Es importante diferenciar dos tipos de piezas o productos digitales:</p>
+<div class="row">
+		<div class="col-xs-6">
+			<p class="m-t-2 small"><strong>Páginas relevantes</strong> con información corporativa de interés general. Por ejemplo, páginas de trámites o normativas, perfiles de secretarios, desarrollos externos.</p>
+			<p class="m-t-2 small"><strong>Páginas con objetivos temporales o dirigidas a un público específico </strong>como pueden ser municipios, incubadoras, entre otros.</p>
+			<p class="m-t-2 small"></p>
+		</div>
+		<div class="col-xs-6">
+			<p class="m-t-2 small">Estos productos están compuestos por dos tipos de elementos: fijos y modulables.</p>
+			<p class="m-t-2 small">Los <strong>elementos fijos</strong> deben mantenerse en toda pieza o producto digital del Ministerio, con los componentes de Poncho asociados.</p>
+			<p class="m-t-2 small">Los <strong>elementos modulares</strong> son complementarios y responden a las funcionalidades de cada pieza.</p>
+		</div>
+	</div>
+<div class="m-t-3 row">
+		<div class="col-xs-6">
+<img class="img-responsive" src="img/CTA1.png" />
+</div>
+<div class="col-xs-6">
+<img class="img-responsive" src="img/CTA2.png" />
+</div>
+</div>

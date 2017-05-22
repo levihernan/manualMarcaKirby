@@ -6,5 +6,6 @@
 <?= css('assets/css/font-awesome.css') ?>
 <?= css('assets/css/styles.css') ?>
 <?= css('assets/css/docs.css') ?>
+<?= css('assets/css/icono-arg.css') ?>
 
 <?= js('assets/js/jquery.js') ?>

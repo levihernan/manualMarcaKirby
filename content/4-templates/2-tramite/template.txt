@@ -1,0 +1,5 @@
+Title: Trámite
+
+----
+
+Description: <p>Te proponemos una estructura para presentar un nuevo trámite o programa asociado a un trámite en el sitio web del Ministerio.

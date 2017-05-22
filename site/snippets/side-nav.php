@@ -11,7 +11,7 @@
   <ul id="nav-mobile" class="side-nav fixed" style="transform: translateX(0px);">
     <li class="logo">
       <div id="logo-container" class="brand-logo">
-        <a style="background-color:transparent;" href="" class="p-l-0">
+        <a style="background-color:transparent;" href="<?= $site->url() ?>" class="p-l-0">
           <img src="img/logo-produccion-inverse.png">
         </a>
       </div>
@@ -23,7 +23,12 @@
             <div class="collapsible-body">
               <ul class="level-1 collapsible collapsible-accordion">
                 <?php foreach ($seccion->children() as $categoria): ?>
-                  <li><a href="<?= str_replace("/", "#", $categoria->id()) ?>" class="collapsible-header waves-effect waves-light"><?= $categoria->title() ?></a>
+                  <li>
+                    <a href="<?= str_replace("/", "#", $categoria->id()) ?>" class="collapsible-header waves-effect waves-light">
+                      <small>
+                        <?= $categoria->title() ?>
+                      </small>
+                    </a>
                   </li>
                 <?php endforeach ?>
               </ul>

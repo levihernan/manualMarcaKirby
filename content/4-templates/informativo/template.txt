@@ -1,5 +1,0 @@
-Title: Informativo
-
-----
-
-Description: <p>Descripción del template

@@ -1,0 +1,16 @@
+Title: Página tradicional
+
+----
+
+Description: 
+
+<p>Si tenés una estructura para comunicar diferentes bloques de información sobre un mismo tema o derivar a temáticas afines.
+<p>Sirve para presentar:
+<ul>
+<li>
+Comunicados
+</li><li>
+Noticias
+</li><li>
+Informar sobre la existencia de programas institucionales
+</li></ul>

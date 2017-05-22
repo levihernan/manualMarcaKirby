@@ -1,0 +1,5 @@
+Title: Derivador
+
+----
+
+Description: <p>Permite presentar y derivar a otras páginas dentro o fuera del sitio web del Ministerio. Funciona como una especie de catálogo para presentar varias herramientas o al mismo tiempo.

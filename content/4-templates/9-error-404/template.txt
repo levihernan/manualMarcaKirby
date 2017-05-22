@@ -1,0 +1,5 @@
+Title: Error 404
+
+----
+
+Description: <p class="">Te proponemos una página de error para todos los desarrollos del Ministerio.</p>
