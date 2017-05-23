@@ -19,3 +19,5 @@
 <?= js('assets/js/jquery.js') ?>
 
 <body>
+  <div class="manual-content">
+    
