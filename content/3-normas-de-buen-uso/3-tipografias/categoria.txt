@@ -21,7 +21,7 @@ Description:
 		</div>
 	</div>
 	<div class="row">
-		<div class="tipografias col-xs-12">
+		<div class="tipografias col-xs-12 recomendaciones">
 			<p class="col-xs-12 small header light lighter">Roboto</p>
 			<h1 class="biggest"><span class="">Aa</span> <span class="">Bb</span> <span class="normal">Cc</span> <span class="normal">Dd</span> <span class="light">Ee</span> <span class="light">Ff</span><br><span class="break-all light lighter">0123456@#&$/</span></h1>
 			<p class="col-xs-12 m-t-2 header"></p>

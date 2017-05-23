@@ -2,19 +2,19 @@ Title: Home
 
 ----
 
-Intro: Yay! If you are seeing this, the installation of Kirby worked. :-)
+Intro: Manual para desarrollos digitales
 
 ----
 
 Text: 
 
-## Get started
-
-- Go to the (link: panel text: Panel) to give Kirby's admin interface a try
-- Check out the (link: http://getkirby.com/docs text: docs) and start building your own site
-- Follow (twitter: @getkirby) on Twitter for updates
-- Visit the (link: http://forum.getkirby.com text: forum) to connect with other Kirby users
-- Sign up to (link: https://getkirby.com/#kosmos text: Kirby Kosmos), our monthly newsletter
-- (link: http://getkirby.com/support text: Get in contact) if you need support.
-
-**Have fun with Kirby!**
+<p class="m-t-2"><strong>Lograr coherencia</strong> en la imagen del Ministerio de Producción en las diferentes plataformas digitales <strong>es una prioridad.</strong> Encontrá en este manual, cómo aplicar y sistematizar los elementos de comunicación visual para que la publicación de tu experiencia digital sea aprobada.</p>
+	<div class="row p-b-4">
+	
+		<div class="m-t-4 col-sm-8">
+			<img class="m-t-1" width="100%" src="img/desktop-screen.png">
+		</div>
+		
+		<div class="m-t-4 col-sm-3 col-sm-offset-1 col-xs-6 col-xs-offset-3">
+			<img width="100%" src="img/mobile-screen.png">
+		</div>

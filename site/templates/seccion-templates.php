@@ -1,7 +1,7 @@
 <?= snippet('header') ?>
 
 <div class="container container-sidenav">
-  <h1>
+  <h1 class="title">
     <?= $page->title() ?>
   </h1>
   <?= $page->description() ?>
@@ -9,7 +9,7 @@
   <?php foreach ($page->children() as $template): ?>
     <div class="categoria" id="<?= $template->slug() ?>">
 
-      <h2>
+      <h2 class="title">
         <?= $template->title() ?>
       </h2>
       <?= $template->description() ?>

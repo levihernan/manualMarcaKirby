@@ -1,19 +1,8 @@
-<?php snippet('header') ?>
+<?= snippet('header') ?>
 
-  <main class="main" role="main">
+<div class="container container-sidenav">
+  <h1 class="title"><?= $page->intro() ?></h1>
+  <?= $page->text() ?>
+</div>
 
-    <header class="wrap">
-      <h1><?= $page->title()->html() ?></h1>
-      <div class="intro text">
-        <?= $page->intro()->kirbytext() ?>
-      </div>
-      <hr />
-    </header>
-
-    <div class="text wrap">
-      <?= $page->text()->kirbytext() ?>
-    </div>
-
-  </main>
-
-<?php snippet('footer') ?>
+<?= snippet('footer') ?>

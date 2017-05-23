@@ -1,0 +1,20 @@
+Title: Ejemplos uso de color
+
+----
+
+Description: 
+
+<h1 class="m-t-4">Utilización de paleta extendida</h1>
+		<div class="row">
+			<div class="col-xs-12 col-md-12">
+				<div class="row m-t-2">
+					<div class="col-sm-12 m-t-2">
+						<img class="width-100" src="img/poncho_003.png">
+						<img class="width-100" src="img/poncho_004.png">
+						<img class="width-100" src="img/poncho_005.png">
+						<img class="width-100" src="img/poncho_006.png">
+						<img class="width-100" src="img/poncho_007.png">
+					</div>
+				</div>
+			</div>
+		</div>
