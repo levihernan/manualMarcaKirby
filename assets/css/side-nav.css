@@ -1378,14 +1378,14 @@ dd {
 
 @media screen and (max-width: 767px) {
   /* line 1092, modules/  */
-  h2 {
+  /*h2 {
     font-size: 2.6em;
-  }
+  }*/
 
   /* line 1096, modules/  */
-  h3 {
+  /*h3 {
     font-size: 32px;
-  }
+  }*/
 
   /* line 1102, modules/  */
   article h1.icon {
