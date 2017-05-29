@@ -1409,7 +1409,9 @@ dd {
     padding-right: 60px !important;
   }
 }
+
 @media screen and (max-width: 767px) {
+
   /* line 1137, modules/  */
   blockquote {
     text-align: center;
@@ -1740,6 +1742,9 @@ pre{
     max-width: 100%;
     display: inline-block;
     white-space: pre-wrap;
+}
+.side-nav{
+  zoom: .8;
 }
 }
 /* line 196, modules/_sideNav.scss */
