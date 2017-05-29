@@ -1,6 +1,6 @@
 <?= snippet('header') ?>
 
-<div class="container container-sidenav">
+<div class="container container-sidenav" onclick="closeNav()">
   <h1 class="title">
     <?= $page->title() ?>
   </h1>

@@ -169,95 +169,95 @@ body {
   margin: 0px;
 }
 
-/* line 1, templates/_global.scss */
+/* line 1, templates/  */
 html, body {
   height: auto !important;
   min-height: 100% !important;
 }
 
 @media screen and (min-width: 769px) {
-  /* line 9, templates/_global.scss */
+  /* line 9, templates/  */
   .panel-icon .panel-body h3 {
     height: 54px;
   }
 }
 @media screen and (max-width: 420px) {
-  /* line 22, templates/_global.scss */
+  /* line 22, templates/  */
   .navbar.navbar-default .container .navbar-header .navbar-brand img {
     width: 100%;
     height: auto;
   }
 }
 @media screen and (min-width: 991px) {
-  /* line 37, templates/_global.scss */
+  /* line 37, templates/  */
   .panel-md .panel-body h4 {
     height: 42px;
   }
 }
 @media screen and (min-width: 991px) {
-  /* line 48, templates/_global.scss */
+  /* line 48, templates/  */
   .panel-md .panel-body p {
     height: 250px;
   }
 }
-/* line 57, templates/_global.scss */
+/* line 57, templates/  */
 .btn .fa.fa-3x {
   font-size: 3em;
 }
 
-/* line 65, templates/_global.scss */
+/* line 65, templates/  */
 .panel-icon .panel-heading.bg-white {
   background-color: white;
 }
-/* line 67, templates/_global.scss */
+/* line 67, templates/  */
 .panel-icon .panel-heading.bg-white i, .panel-icon .panel-heading.bg-white p {
   color: black;
 }
 
-/* line 75, templates/_global.scss */
+/* line 75, templates/  */
 .jumbotron.derivador {
   text-align: center;
 }
-/* line 77, templates/_global.scss */
+/* line 77, templates/  */
 .jumbotron.derivador p {
   text-align: justify;
   -moz-text-align-last: center;
   text-align-last: center;
 }
-/* line 82, templates/_global.scss */
+/* line 82, templates/  */
 .jumbotron.derivador h2 {
   text-transform: uppercase;
   padding-top: 25px;
 }
 
-/* line 89, templates/_global.scss */
+/* line 89, templates/  */
 .tabs-content-container {
   border: 1px solid #ddd;
   border-top: none;
 }
-/* line 92, templates/_global.scss */
+/* line 92, templates/  */
 .tabs-content-container .tabs-content {
   display: none;
 }
-/* line 94, templates/_global.scss */
+/* line 94, templates/  */
 .tabs-content-container .tabs-content.active {
   display: block;
 }
 
-/* line 100, templates/_global.scss */
+/* line 100, templates/  */
 .feature {
   text-align: center;
   margin-top: 50px;
 }
-/* line 103, templates/_global.scss */
+/* line 103, templates/  */
 .feature i {
   font-size: 75px;
 }
-/* line 106, templates/_global.scss */
+/* line 106, templates/  */
 .feature p {
   padding: 20px 40px 20px 40px;
 }
-/* line 109, templates/_global.scss */
+/* line 109, templates/  */
 .feature .feature-colors {
   padding-top: 3rem;
   min-height: 320px;

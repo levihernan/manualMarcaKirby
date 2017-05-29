@@ -6,7 +6,6 @@
     <title>Manual para desarrollos digitales </title>
   </head>
 
-<?php snippet('side-nav') ?>
 
 
 <?= css('assets/css/bootstrap.min.css') ?>
@@ -18,6 +17,6 @@
 
 <?= js('assets/js/jquery.js') ?>
 
+<?php snippet('side-nav') ?>
 <body>
   <div class="manual-content">
-    

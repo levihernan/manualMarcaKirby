@@ -74,7 +74,7 @@ a{
 }
 
 .container-sidenav{
-  padding-left: 300px !important;
+  padding-left: 300px;
   padding-top: 100px;
 }
 
@@ -136,7 +136,7 @@ pre[class*="language-"] {
   display: none;
 }
 
-@media screen and (max-width: 620px) {
+/*@media screen and (max-width: 620px) {
   html{
     overflow: hidden;
   }
@@ -157,4 +157,4 @@ pre[class*="language-"] {
   .manual-content{
     display: none;
   }
-}
+}*/
