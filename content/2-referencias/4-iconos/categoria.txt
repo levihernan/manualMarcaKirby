@@ -2,14 +2,14 @@ Title: Íconos
 
 ----
 
-Id: 
+Id:
 
 ----
 
-Description: 
+Description:
 
-<p class="">Dentro de poncho estamos trabajando en una <a href="https://argob.github.io/iconos">familia de íconos</a> que va creciendo de a poco, y de momento convive junto a <a href="http://fontawesome.io/icons/">Font Awesome</a>.</p>
-<p>Podés descargar los Iconos haciendo click <a href="http://wip.noduscompany.com/produccion/downloads/110912-font-awesome.zip"> aquí</a>.</p>
+<p class="">Dentro de poncho estamos trabajando en una <a target="_blank" href="https://argob.github.io/iconos">familia de íconos</a> que va creciendo de a poco, y de momento convive junto a <a target="_blank" href="http://fontawesome.io/icons/">Font Awesome</a>.</p>
+<p>Podés descargar los Iconos haciendo click <a target="_blank" href="http://wip.noduscompany.com/produccion/downloads/110912-font-awesome.zip"> aquí</a>.</p>
 
 <h4 class="header">Íconos en drupal</h4>
 <div id="icons">
@@ -21,7 +21,7 @@ Description:
       </div> -->
       <div class="text-center">
         <!-- <p class="text-muted">Hacé clic en el ícono para copiar el nombre al portapapeles</p> -->
-        <a href="zip/FontAwesome.zip"><button type="button" class="btn btn-success btn-block">Descargar todos los íconos</button></a>
+        <a href="zip/Fonts.zip"><button type="button" class="btn btn-success btn-block">Descargar todos los íconos</button></a>
       </div>
     </div>
   </div>
@@ -429,4 +429,4 @@ Description:
 
 ----
 
-Text: 
+Text:
