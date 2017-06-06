@@ -12,8 +12,7 @@ Description:
 
 
 
-<h4 class="header">Paleta principal</h4>
-<p>La paleta principal se forma de:</p>
+<p>La <strong>paleta principal</strong> se forma de:</p>
 <div class="docs-colores">
   <div class="row">
     <div class="col-md-4 col-sm-6 text-center">
