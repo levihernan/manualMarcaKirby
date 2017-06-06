@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 namespace Kirby\Panel\Models\Page;
 
@@ -27,7 +27,7 @@ class Uploader {
     if($this->file) {
       $this->replace();
     } else {
-      $this->upload();      
+      $this->upload();
     }
 
   }
@@ -55,7 +55,7 @@ class Uploader {
     // create the initial meta file
     // without triggering the update hook
     try {
-      $file->createMeta(false);      
+      $file->createMeta(false);
     } catch(Exception $e) {
       // don't react on meta errors
       // the meta file can still be generated later
@@ -67,13 +67,13 @@ class Uploader {
     // clean the thumbs folder
     $this->page->removeThumbs();
 
-    kirby()->trigger($event, $file);          
+    kirby()->trigger($event, $file);
 
   }
 
   public function replace() {
 
-    $file   = $this->file;    
+    $file   = $this->file;
     $upload = new Upload($file->root(), array(
       'overwrite' => true,
       'accept' => function($upload) use($file) {
@@ -138,8 +138,8 @@ class Uploader {
   public function checkUpload($file) {
 
     $filesettings        = $this->blueprint->files();
-    $forbiddenExtensions = array('php', 'html', 'htm', 'exe', kirby()->option('content.file.extension', 'txt'));
-    $forbiddenMimes      = array_merge(f::$mimes['php'], array('text/html', 'application/x-msdownload'));
+    $forbiddenExtensions = array('php', 'htm', 'exe', kirby()->option('content.file.extension', 'txt'));
+    $forbiddenMimes      = array_merge(f::$mimes['php']);
     $extension           = strtolower($file->extension());
 
     // files without extension are not allowed
@@ -190,7 +190,7 @@ class Uploader {
     // Files blueprint option 'height'
     if($file->type() == 'image' and $filesettings->height() and $file->height() > $filesettings->height()) {
       throw new Exception('Page only allows image height of ' . $filesettings->height().'px');
-    } 
+    }
 
   }
 

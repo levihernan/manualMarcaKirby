@@ -19,7 +19,8 @@
     <li class="no-padding">
       <ul class="level-0 collapsible collapsible-accordion">
         <?php foreach ($site->children()->visible() as $seccion): ?>
-          <li class="bold"><a class="collapsible-header waves-effect waves-light"><?= $seccion->title() ?></a>
+          <?php $isopen = $seccion->isOpen(); ?>
+          <li class="bold"><a class="collapsible-header waves-effect waves-light<?php if($isopen){echo ' active';} ?>"><?= $seccion->title() ?></a>
             <div class="collapsible-body">
               <ul class="level-1 collapsible collapsible-accordion">
                 <?php foreach ($seccion->children() as $categoria): ?>
