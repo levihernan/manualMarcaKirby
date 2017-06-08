@@ -17,7 +17,7 @@
         <img class="img-responsive templateImage" src="<?= $template->image()->uri() ?>" alt=""/>
       <?php endif ?>
       <div class="row">
-        <div class="col-md-offset-4 col-md-4">
+        <div class="col-md-offset-2 col-md-4">
           <a href="zip/<?= $template->slug() ?>.zip" class="btn btn-primary btn-md btn-block" >Descargar template</a>
         </div>
         <div class="col-md-4">
