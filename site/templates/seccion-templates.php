@@ -14,7 +14,7 @@
       </h2>
       <?= $template->description() ?>
       <?php if ($template->hasImages()): ?>
-        <img class="img-responsive p-t-2 p-b-2" src="<?= $template->image()->uri() ?>" alt=""/>
+        <img class="img-responsive templateImage" src="<?= $template->image()->uri() ?>" alt=""/>
       <?php endif ?>
       <div class="row">
         <div class="col-md-offset-4 col-md-4">
