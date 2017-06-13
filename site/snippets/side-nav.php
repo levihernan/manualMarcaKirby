@@ -24,28 +24,50 @@
             <div class="collapsible-body">
               <ul class="level-1 collapsible collapsible-accordion">
                 <?php foreach ($seccion->children() as $categoria): ?>
-                  <li>
-                    <a href="<?= str_replace("/", "#", $categoria->id()) ?>" class="collapsible-header waves-effect waves-light">
-                      <small>
-                        <?= $categoria->title() ?>
-                      </small>
-                    </a>
-                  </li>
-                <?php endforeach ?>
-              </ul>
-            </div>
-          </li>
-        <?php endforeach ?>
-      </ul>
-    </li>
-  </ul>
-</header>
 
-<script type="text/javascript">
-function toggleNav() {
-    $("#nav-mobile").toggleClass('activeNav');
-  };
-function closeNav() {
-    $("#nav-mobile").removeClass('activeNav');
-};
-</script>
+                  <?php if ($categoria->intendedTemplate() == 'separador'): ?>
+                    <li class="bold"><a class="collapsible-header waves-effect waves-light"><?= $categoria->title() ?></a>
+                      <div class="collapsible-body">
+                        <ul class="level-2 collapsible collapsible-accordion">
+                          <?php foreach ($categoria->children()->visible() as $separador): ?>
+                            <li>
+                              <a href="<?= $seccion->slug() ?>#<?= str_replace("/", "#", $separador->slug()) ?>" class="collapsible-header waves-effect waves-light">
+                                <small>
+                                  <?= $separador->title() ?>
+                                </small>
+                              </a>
+                            </li>
+                          <?php endforeach ?>
+
+                        </ul>
+                      </div>
+                    </li>
+                        <?php else: ?>
+                          <li>
+                            <a href="<?= $seccion->slug() ?>#<?= $categoria->slug() ?>" class="collapsible-header waves-effect waves-light">
+                            <!-- <a href="<?= str_replace("/", "#", $categoria->id()) ?>" class="collapsible-header waves-effect waves-light"> -->
+                              <small>
+                                <?= $categoria->title() ?>
+                              </small>
+                            </a>
+                          </li>
+                        <?php endif ?>
+
+                      <?php endforeach ?>
+                    </ul>
+                  </div>
+                </li>
+              <?php endforeach ?>
+            </ul>
+          </li>
+        </ul>
+      </header>
+
+      <script type="text/javascript">
+        function toggleNav() {
+          $("#nav-mobile").toggleClass('activeNav');
+        };
+        function closeNav() {
+          $("#nav-mobile").removeClass('activeNav');
+        };
+      </script>
