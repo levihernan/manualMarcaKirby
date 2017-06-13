@@ -1,5 +1,0 @@
-Title: Formulario
-
-----
-
-Description: <p class="">Te proponemos una estructura para desplegar un formulario en la web del Ministerio.</p>

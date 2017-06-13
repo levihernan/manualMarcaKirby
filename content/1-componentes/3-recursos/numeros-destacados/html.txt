@@ -6,7 +6,7 @@ Id:
 
 ----
 
-Description: Los números destacados se utilizan en landings, páginas o noticias que necesitan comunicar un resultado o medición.
+Description: <p>Los números destacados se utilizan en landings, páginas o noticias para destacar un resultado, métrica o indicador numérica. Recomendamos que el texto que acompañe este formato sea breve y directo.
 
 ----
 
@@ -26,6 +26,6 @@ Text:
 <div class="col-md-4">
 <div class="h2">5 <small>de 10</small></div>
 <p class="">Personas conectadas</p>
-<p class="text-muted">Duramente los últimos 30 días.</p>
+<p class="text-muted">Durante los últimos 30 días</p>
 </div>
 </div>

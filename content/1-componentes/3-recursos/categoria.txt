@@ -1,11 +1,12 @@
-﻿Title: Recursos
+Title: Recursos
+
 ----
 
 Id: 
 
 ----
 
-Description: Los atajos se utilizan para enlazar cualquier tipo de contenido, tanto interno como externo, y con diferentes tipos de jerarquías.
+Description: <p>Los siguientes elementos web ayudan a jerarquizar y resumir información de manera más ordenada.
 
 ----
 

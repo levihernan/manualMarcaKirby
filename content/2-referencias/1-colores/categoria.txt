@@ -8,11 +8,7 @@ Id:
 
 Description: 
 
-<p class="">Los atajos se utilizan para enlazar cualquier tipo de contenido, tanto interno como externo, y con diferentes tipos de jerarquías.</p>
-
-
-
-<p>La <strong>paleta principal</strong> se forma de:</p>
+<p>La paleta principal se forma de:</p>
 <div class="docs-colores">
   <div class="row">
     <div class="col-md-4 col-sm-6 text-center">

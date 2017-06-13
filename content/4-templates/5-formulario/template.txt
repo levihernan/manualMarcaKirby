@@ -1,0 +1,10 @@
+Title: Formulario
+
+----
+
+Description: 
+
+<div class="alert alert-info m-b-0">
+En revisión
+    </div><br>
+<p class="">Te proponemos una estructura para desplegar un formulario en la web del Ministerio.</p>

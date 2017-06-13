@@ -4,20 +4,16 @@ Title: Tipografías
 
 Description: 
 
-<h1 class="m-t-3">Normas para el buen uso de la marca</h1>
-	<h5 class="m-t-4">TIPOGRAFIAS</h5>
-
-	<div class="m-t-4 row">
+<div class=" row">
 		<div class="col-xs-6">
 			<h5>Principal</h5>
-			<p class="small">La familia tipográﬁca primaria institucional es la Roboto</p>
+			<p class="small">La familia tipográﬁca primaria institucional es la <strong>Roboto</strong>.</p>
 			<p class="small">Esta cuenta con distintos tamaños y pesos que al ser combinados generan contraste y dinamismo facilitando la lectura y pregnancia del mensaje.</p>
 		</div>
 		<div class="col-xs-6">
 			<h5>Secundarias</h5>
 			<p class="small">La comunicación de Presidencia puede combinarse con otras tipograﬁas que sean pertinentes al tema.</p>
-			<p class="m-t-2 small">Algunas de estas son:</p>
-			<p class="m-t-2 small bold">Gotham Rounded<br>Gotham XNarrow</p>
+			<p class="m-t-2 small">Algunas de estas son: <strong>Gotham Rounded</strong> y <strong>Gotham XNarrow</strong>.</p>
 		</div>
 	</div>
 	<div class="row">

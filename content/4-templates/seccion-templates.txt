@@ -2,4 +2,4 @@ Title: Templates
 
 ----
 
-Description: <p>descripción de templates
+Description: <p>Acá podés encontrar plantillas para ordenar la información que querés comunicar en el sitio web del Ministerio u otros soportes digitales. Cada template propone una estructura de elementos que se puede utilizar en su conjunto o adaptar parcialmente a la necesidad de comunicación interna o externa.

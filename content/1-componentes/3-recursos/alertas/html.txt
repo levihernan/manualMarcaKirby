@@ -9,7 +9,7 @@ Description:
         <li>Azul <small class="text-muted">(.alert-info)</small></li>
         <li>Verde <small class="text-muted">(.alert-success)</small></li>
         <li>Rojo <small class="text-muted">(.alert-danger)</small></li>
-      </ul>
+</ul>
 
 ----
 
@@ -23,17 +23,27 @@ Text:
 <i class="fa fa-arrow-circle-o-right fa-fw fa-4x"></i>
 </div>
 <div class="media-body">
-<h5>¿Ya iniciaste tu tramite?</h5>
-<p class="margin-0">Seguí el <a href="http://www.mininterior.gov.ar/tramitesyservicios/estado-tramite-dni.php" target="_blank">estado del trámite en linea</a></p>
+<h5 class="margin-0">¿Ya iniciaste tu tramite?</h5>
+<p>Seguí el <a href="#">estado del trámite en linea</a></p>
 </div>
 </div>
 </div>
 
 <!-- Alerta sin ícono -->
 
-<div class="alert alert-warning">
+<div class="alert alert-info">
 <h5>¿Ya iniciaste tu tramite?</h5>
-<p class="margin-0">Seguí el <a href="http://www.mininterior.gov.ar/tramitesyservicios/estado-tramite-dni.php" target="_blank">estado del trámite en linea</a></p>
+<p>Tenés tiempo desde el 25 de Mayo hasta el 9 de Julio</p>
+</div>
+
+<div class="alert alert-success">
+<h5>Tu trámite ha sido iniciado</h5>
+<p>Recibimos tu solicitud, en breve nos estaremos contactando con vos</p>
+</div>
+
+<div class="alert alert-danger">
+<h5>Error</h5>
+<p>Tu solicitud no pudo ser procesada, intentalo de nuevo más tarde</p>
 </div>
 
 ----

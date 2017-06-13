@@ -8,7 +8,7 @@ Id:
 
 Description: 
 
-<p>La paleta extendida se forma de:</p>
+<p>La paleta extendida de Poncho ofrece colores complementarios para  arquitectura de contenidos información. </p>
 <div class="docs-colores">
   <div class="row">
     <div class="col-md-3 col-sm-6 text-center">

@@ -2,7 +2,7 @@ Title: Ejes
 
 ----
 
-Description: 
+Description: <p>Este formato es útil para sintetizar y jerarquizar características, beneficios o una secuencia de pasos.
 
 ----
 

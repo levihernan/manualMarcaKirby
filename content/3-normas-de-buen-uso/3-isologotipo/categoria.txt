@@ -8,11 +8,7 @@ Id:
 
 Description: 
 
-<h1 class="m-t-3">Normas para el buen uso de la marca</h1>
-	<h5 class="m-t-2">ISOLOGOTIPO</h5>
-	<p class="m-t-2"><strong>Aplicación</strong></p>
-
-	<div class="row">
+<div class="row">
 
 		<div class="m-t-3 col-md-4">
 			<div class="bordered">
@@ -40,10 +36,10 @@ Description:
 		<div class="">
 			<p class="small m-t-3">Versión color positivo:</p>
 			<div class="row logos-catalog text-center p-t-4 p-b-4">
-				<div class="logo-type col-md-2"><span class="helper"></span><img class="img-responsive" src="img/recomendaciones/logotipos/solo-escudo.png"></div>
-				<div class="logo-type vertical col-md-3"><span class="helper"></span><img class="img-responsive" src="img/recomendaciones/logotipos/vertical.png"></div>
-				<div class="logo-type col-md-3"><span class="helper"></span><img class="img-responsive" src="img/recomendaciones/logotipos/horizontal-dos.png"></div>
-				<div class="logo-type col-md-4"><span class="helper"></span><img class="img-responsive" src="img/recomendaciones/logotipos/horizontal-una.png"></div>
+				<div class="logo-type col-md-2 m-t-2"><span class="helper"></span><img class="img-responsive" src="img/recomendaciones/logotipos/solo-escudo.png"></div>
+				<div class="logo-type vertical col-md-3 m-t-2"><span class="helper"></span><img class="img-responsive" src="img/recomendaciones/logotipos/vertical.png"></div>
+				<div class="logo-type col-md-3 m-t-2"><span class="helper"></span><img class="img-responsive" src="img/recomendaciones/logotipos/horizontal-dos.png"></div>
+				<div class="logo-type col-md-4 m-t-2"><span class="helper"></span><img class="img-responsive" src="img/recomendaciones/logotipos/horizontal-una.png"></div>
 			</div>
 		</div>
 	</div>
@@ -51,10 +47,10 @@ Description:
 		<div class="">
 			<p class="small m-t-3">Versión color positivo:</p>
 			<div class="row logos-catalog text-center p-t-4 p-b-4">
-				<div class="logo-type col-md-2"><span class="helper"></span><img class="img-responsive" src="img/recomendaciones/logotipos/solo-escudo.png"></div>
-				<div class="logo-type vertical col-md-3"><span class="helper"></span><img class="img-responsive" src="img/recomendaciones/logotipos/vertical-negativo.png"></div>
-				<div class="logo-type col-md-3"><span class="helper"></span><img class="img-responsive" src="img/recomendaciones/logotipos/horizontal-dos-negativo.png"></div>
-				<div class="logo-type col-md-4"><span class="helper"></span><img class="img-responsive" src="img/recomendaciones/logotipos/horizontal-una-negativo.png"></div>
+				<div class="logo-type col-md-2 m-t-2"><span class="helper"></span><img class="img-responsive" src="img/recomendaciones/logotipos/solo-escudo.png"></div>
+				<div class="logo-type vertical col-md-3 m-t-2"><span class="helper"></span><img class="img-responsive" src="img/recomendaciones/logotipos/vertical-negativo.png"></div>
+				<div class="logo-type col-md-3 m-t-2"><span class="helper"></span><img class="img-responsive" src="img/recomendaciones/logotipos/horizontal-dos-negativo.png"></div>
+				<div class="logo-type col-md-4 m-t-2"><span class="helper"></span><img class="img-responsive" src="img/recomendaciones/logotipos/horizontal-una-negativo.png"></div>
 			</div>
 		</div>
 	</div>

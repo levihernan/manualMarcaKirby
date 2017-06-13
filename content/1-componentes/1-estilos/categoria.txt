@@ -10,4 +10,4 @@ Id:
 
 ----
 
-Description: <p>Descripción de estilos
+Description: <p>Las siguientes combinaciones predefinidas de fuente, colores, tamaños y elementos  ayudan a unificar y mejorar el diseño de todos los productos o piezas digitales del Ministerio. Se deben aplicar de la siguiente manera.

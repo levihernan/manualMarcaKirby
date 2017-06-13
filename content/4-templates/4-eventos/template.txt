@@ -1,0 +1,5 @@
+Title: Eventos
+
+----
+
+Description: <p class="">Esta plantilla está pensada para comunicar los datos básicos para la convocatoria a un evento: fecha, hora y lugar, y destacar los beneficios o agenda de actividades del evento.

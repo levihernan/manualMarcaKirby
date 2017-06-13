@@ -6,4 +6,4 @@ Text:
 
 ----
 
-Description: <p>Descripción de componentes
+Description: 

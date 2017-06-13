@@ -1,0 +1,5 @@
+Title: Reina
+
+----
+
+Description: <p>Esta plantilla contiene todos los elementos posibles para estructurar una landing page, los mismos se pueden usar de manera modular en múltiples combinaciones para personalizar el contenido. Las páginas de aterrizaje (landings) preven una duración más sostenida en el tiempo y son susceptibles de menos actualizaciones.

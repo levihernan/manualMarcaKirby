@@ -2,30 +2,26 @@ Title: Íconos
 
 ----
 
-Id:
+Id: 
 
 ----
 
-Description:
+Description: 
 
-<p class="">Dentro de poncho estamos trabajando en una <a target="_blank" href="https://argob.github.io/iconos">familia de íconos</a> que va creciendo de a poco, y de momento convive junto a <a target="_blank" href="http://fontawesome.io/icons/">Font Awesome</a>.</p>
-<p>Podés descargar los Iconos haciendo click <a target="_blank" href="http://wip.noduscompany.com/produccion/downloads/110912-font-awesome.zip"> aquí</a>.</p>
+<p class="">La <a target="_blank" href="https://argob.github.io/iconos">familia de íconos</a> que ofrece Poncho está en construcción permanente. Se complementa con la familia de <a target="_blank" href="http://fontawesome.io/icons/">Font Awesome</a>.
 
-<h4 class="header">Íconos en drupal</h4>
+
 <div id="icons">
 
   <div class="row">
-    <div class="col-md-8 col-md-offset-2">
-      <!-- <div class="form-group">
-        <input class="form-control search" placeholder="Filtrá los íconos por nombre" autofocus="">
-      </div> -->
+    <div class="col-md-6 col-md-offset-3">
+
       <div class="text-center">
-        <!-- <p class="text-muted">Hacé clic en el ícono para copiar el nombre al portapapeles</p> -->
         <a href="zip/Fonts.zip"><button type="button" class="btn btn-success btn-block">Descargar todos los íconos</button></a>
       </div>
     </div>
   </div>
-  <p>En drupal, la lista de íconos disponibles es:</p>
+  <p>La lista de íconos disponibles es:</p>
 
   <div class="list row row-flex padding-40"><div class="col-xs-6 col-sm-4 col-md-3 text-center margin-40">
     <i id="icono-arg-agricultura" class="icono-arg-agricultura icono-4x text-gray" data-clipboard-text="icono-arg-agricultura"></i>
@@ -429,4 +425,4 @@ Description:
 
 ----
 
-Text:
+Text: 

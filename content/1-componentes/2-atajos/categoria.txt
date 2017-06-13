@@ -6,7 +6,7 @@ Id:
 
 ----
 
-Description: Los atajos se utilizan para enlazar cualquier tipo de contenido, tanto interno como externo, y con diferentes tipos de jerarquías.
+Description: <p>Los atajos permiten enlazar cualquier tipo de contenido, interno o externo, y con diferentes tipos de jerarquías. En general, funcionan como botones o paneles de acceso a otras secciones. Presentan diferentes tipologías como las que se muestran a continuación.
 
 ----
 
