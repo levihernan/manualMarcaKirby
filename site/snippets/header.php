@@ -10,6 +10,7 @@
 
 <?= css('assets/css/bootstrap.min.css') ?>
 <?= css('assets/css/poncho.css') ?>
+<?= css('assets/css/palta.css') ?>
 <?= css('assets/css/font-awesome.css') ?>
 <?= css('assets/css/icono-arg.css') ?>
 <?= css('assets/css/side-nav.css') ?>
